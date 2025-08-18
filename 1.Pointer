@@ -17,3 +17,10 @@ int main() {
 
     return 0;
 }
+
+OUTPUT:
+Value of x: 10
+Address of x: 0x7ffee68d9b14
+Pointer (ptr) stores: 0x7ffee68d9b14
+Value at ptr (*ptr): 10
+New value of x: 20
