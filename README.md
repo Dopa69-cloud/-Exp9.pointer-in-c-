@@ -1,6 +1,6 @@
 # Pseudocode algorithm
 
-```
+CODE 2.```
 1. create array ar = [10, 20, 30]
 2. print value at address ar (i.e., ar[0])
 3. set ptr = address of first element of ar
